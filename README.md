@@ -1,1 +1,1 @@
-#This sql project
+#This SQL project
